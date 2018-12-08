@@ -1,6 +1,6 @@
-FROM quay.io/pires/docker-elasticsearch:6.4.2
+FROM quay.io/clrxbl/docker-elasticsearch:6.5.1
 
-MAINTAINER pjpires@gmail.com
+MAINTAINER michael@eth0.co
 
 # Override config, otherwise plug-in install will fail
 ADD config /elasticsearch/config
