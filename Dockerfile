@@ -1,4 +1,4 @@
-FROM quay.io/clrxbl/docker-elasticsearch:6.5.1
+FROM quay.io/clrxbl/docker-elasticsearch:6.5.2
 
 MAINTAINER michael@eth0.co
 
